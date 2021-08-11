@@ -1,6 +1,7 @@
 --- Data Source: https://www.kaggle.com/fedesoriano/coronavirus-covid19-vaccinations-data
 --- Database name is COVID19 and table name is COVID19Data
 
+--- Original data
 SELECT *
 FROM COVID19.dbo.COVID19Data
 
