@@ -1,4 +1,5 @@
-# Data Source: https://www.kaggle.com/gpreda/covid-world-vaccination-progress?select=country_vaccinations.csv
+--- Data Source: https://www.kaggle.com/gpreda/covid-world-vaccination-progress?select=country_vaccinations.csv
+--- Database name is COVID19 and table name is country_vacc
 
 --- Original Data
 SELECT *
