@@ -1,3 +1,6 @@
+--- Data Source: 
+--- Database name is COVID19 and table name is COVID19Data
+
 SELECT *
 FROM COVID19.dbo.COVID19Data
 
